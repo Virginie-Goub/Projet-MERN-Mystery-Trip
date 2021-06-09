@@ -1,0 +1,53 @@
+#quote {
+  margin-top: 140px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  left: 500px;
+  bottom: 10vh;
+  border: 4px solid rgb(25, 85, 153);
+  border-image: linear-gradient(to right, #001c20, #036bc0, #38e6ec, #fcfcfc);
+  border-image-slice: 1;
+  background-image: url("https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/loisirs/evasion/paysage-ete/90695692-1-fre-FR/Ces-paysages-d-ete-qui-nous-invitent-au-voyage.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+#quote .titleQuote {
+  padding-top: 30px;
+  color: rgb(29, 93, 119);
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+}
+
+#quote .subtitleQuote {
+  padding-top: 10px;
+  color: rgb(29, 93, 119);
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+}
+
+#quote input textarea {
+  background-color: transparent;
+}
+
+#quote label {
+  text-transform: uppercase;
+}
+
+#quote button {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(88, 194, 236);
+  background-color: transparent;
+  border-radius: 15px;
+}
+
+#quote button:hover {
+  background-color: rgb(122, 229, 233);
+}

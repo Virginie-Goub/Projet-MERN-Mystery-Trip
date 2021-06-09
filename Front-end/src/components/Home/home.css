@@ -1,0 +1,41 @@
+/*.titleTwo {
+  color: rgb(15, 61, 70);
+  letter-spacing: 0.28rem;
+  font-size: 50px;
+  margin-top: 100px;
+  margin-left: 300px;
+}*/
+
+#fonctionnement {
+  margin-top: 150px;
+  margin-left: 80px;
+  display: flex;
+  flex-direction: row;
+}
+
+.titleHome {
+  border-image-slice: 1;
+  color: rgb(4, 55, 122);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 0.17rem;
+  font-size: 18px;
+}
+
+.contentHome {
+  text-align: justify;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(10, 61, 90);
+  letter-spacing: 0.17rem;
+}
+
+.imageHome {
+  padding-bottom: 70px;
+  height: 150px;
+  width: 280px;
+}
+
+#fonctionnement .do {
+  margin: 20px;
+  width: 20vw;
+  height: auto;
+}
